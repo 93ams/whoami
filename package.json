@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/tilau2328/whoami"
   },
-  "homepage": "http://www.clementinejs.com/",
+  "homepage": "https://whoami-tilau2328.c9users.io/api/whoami",
   "scripts": {
   "start": "node server.js"
   },
